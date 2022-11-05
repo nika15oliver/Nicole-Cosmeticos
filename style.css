@@ -16,10 +16,10 @@ background: ;
 
 Estilizar os parágrafos
 p{
-color:rgb(238, 108, 195) ;
+color:rgb(238, 129, 202) ;
 font-family:Georgia, 'Times New Roman', Times, serif ;
-font-size: ;
-background: ;
+font-size: arial ;
+background:rgb(93, 160, 172) ;
 }
 #nika{
     width:100%
