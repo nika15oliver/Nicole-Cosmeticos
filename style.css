@@ -1,20 +1,15 @@
-<link rel="stylesheet" href="style.css">
 
-Além de criar o documento css você deverá fazer as seguintes atividades:
-(copie e cole no documento CSS)
-Estilizar a cor de fundo do seu site como o css
 body{
 background-color:   ;
 }
 
-Estilizar o título principal do seu site
  h1{
 color:rgb(235, 171, 181) ;
 font-family: ;
 background: ;
 }
 
-Estilizar os parágrafos
+
 p{
 color:rgb(238, 129, 202) ;
 font-family:Georgia, 'Times New Roman', Times, serif ;
